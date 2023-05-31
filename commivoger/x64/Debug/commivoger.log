@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\79822\onedrive\документы\commivoger\commivoger\source.cpp(112): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\79822\onedrive\документы\commivoger\commivoger\source.cpp(140): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\79822\onedrive\документы\commivoger\commivoger\source.cpp(154): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\79822\onedrive\документы\commivoger\commivoger\source.cpp(160): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+  commivoger.vcxproj -> C:\Users\79822\OneDrive\Документы\commivoger\x64\Debug\commivoger.exe
