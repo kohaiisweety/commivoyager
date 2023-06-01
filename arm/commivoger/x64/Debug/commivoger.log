@@ -1,0 +1,83 @@
+﻿  Source.cpp
+c:\users\79822\onedrive\документы\armyan\commivoger\source.cpp(132): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\79822\onedrive\документы\armyan\commivoger\source.cpp(138): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\79822\onedrive\документы\armyan\commivoger\source.cpp(144): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\79822\onedrive\документы\armyan\commivoger\source.cpp(150): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\79822\onedrive\документы\armyan\commivoger\source.cpp(160): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\79822\onedrive\документы\armyan\commivoger\source.cpp(220): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\79822\onedrive\документы\armyan\commivoger\source.cpp(231): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\79822\onedrive\документы\armyan\commivoger\source.cpp(249): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\79822\onedrive\документы\armyan\commivoger\source.cpp(267): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  commivoger.vcxproj -> C:\Users\79822\OneDrive\Документы\armyan\x64\Debug\commivoger.exe
