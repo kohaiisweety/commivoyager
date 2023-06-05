@@ -2,7 +2,7 @@
 ## Отчёты
 
 
-- Отчёт по задаче коммивояжера: [тут]([https://github.com/kohaiisweety/commivoyager/tree/main/отчеты%20творческая](https://github.com/kohaiisweety/commivoyager/blob/main/отчеты%20творческая/README.md))
+- Отчёт по задаче коммивояжера: [тут]((https://github.com/kohaiisweety/commivoyager/blob/main/отчеты%20творческая/README.md)
 
 
 - Отчёт по АРМ: [АРМ](https://github.com/kohaiisweety/commivoyager/blob/main/отчеты%20творческая/README1.md)
