@@ -2,10 +2,10 @@
 ## Отчёты
 
 
-- Отчёт по задаче коммивояжера: [тут](https://github.com/kohaiisweety/commivoyager/tree/main/отчеты%20творческая)
+- Отчёт по задаче коммивояжера: [тут]([https://github.com/kohaiisweety/commivoyager/tree/main/отчеты%20творческая](https://github.com/kohaiisweety/commivoyager/blob/main/отчеты%20творческая/README.md))
 
 
-- Отчёт по АРМ: [АРМ](https://github.com/kohaiisweety/commivoyager/tree/main/отчеты%20творческая)
+- Отчёт по АРМ: [АРМ](https://github.com/kohaiisweety/commivoyager/blob/main/отчеты%20творческая/README1.md)
 
 ## Видео отчёт
 YouTube: https://www.youtube.com/watch?v=2PeUXgJT_qI&t=2s
